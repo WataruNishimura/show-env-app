@@ -1,7 +1,7 @@
 {
   "name": "show-env-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is my first cli application for node.",
   "bin": "lib/cli.js",
   "files": [
     "lib"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Wataru Nishimura",
   "license": "MIT",
   "dependencies": {
     "asciify-image": "^0.1.6",
